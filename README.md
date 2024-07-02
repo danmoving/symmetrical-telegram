@@ -1,3 +1,3 @@
-# symmetrical-telegram
+# Symmetrical Telegram
 
 pushy push
